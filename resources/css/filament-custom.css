@@ -1,0 +1,12 @@
+/* Move filters button before column manager */
+.fi-ta-header-toolbar {
+    display: flex;
+}
+
+.fi-ta-filters-trigger-action-ctn {
+    order: 9 !important;
+}
+
+.fi-ta-col-manager-dropdown {
+    order: 10 !important;
+}

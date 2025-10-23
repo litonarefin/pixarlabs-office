@@ -1,0 +1,1 @@
+<img src="/wave/img/pixarlabs-logo.png" alt="Pixar Labs" class="h-8" />
